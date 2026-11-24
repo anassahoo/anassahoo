@@ -14,7 +14,7 @@
   <a href="https://github.com/anassahoo">
     <img src="https://img.shields.io/badge/GitHub-anassahoo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:muhammadanassahoo@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -172,7 +172,7 @@ I am interested in connecting with researchers, professors, and laboratories wor
 I welcome opportunities for **undergraduate research internships, academic collaboration, and contributing to research projects** in these areas.
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:muhammadanassahoo@gmail.com">
     <img src="https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me"/>
   </a>
   <a href="https://github.com/anassahoo">
