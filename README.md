@@ -1,6 +1,6 @@
-<!-- ===================================================== -->
-<!-- HAFIZ MUHAMMAD ANAS — RESEARCH PROFILE README        -->
-<!-- ===================================================== -->
+<!-- ================================================= -->
+<!-- HAFIZ MUHAMMAD ANAS — RESEARCH PROFILE README    -->
+<!-- ================================================= -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:0E4C6B,100:00A6D6&height=200&section=header&text=Hafiz%20Muhammad%20Anas&fontSize=42&fontColor=FFFFFF&fontAlignY=34&desc=Undergraduate%20Researcher%20%C2%B7%20AI%20for%20Earth%20Observation&descSize=16&descAlignY=55" width="100%" alt="Hafiz Muhammad Anas — Undergraduate Researcher"/>
 
@@ -23,9 +23,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Pakistan-0B1F3A?style=flat-square" alt="Pakistan"/>
-  <img src="https://img.shields.io/badge/University-FAST%20NUCES-0E4C6B?style=flat-square" alt="FAST NUCES"/>
-  <img src="https://img.shields.io/badge/Research-Undergraduate%20Researcher-00A6D6?style=flat-square" alt="Undergraduate Researcher"/>
+  <img src="https://img.shields.io/badge/Location-Pakistan-0B1F3A.svg" alt="Location: Pakistan"/>
+  <img src="https://img.shields.io/badge/University-FAST%20NUCES-0E4C6B.svg" alt="University: FAST NUCES"/>
+  <img src="https://img.shields.io/badge/Research-Undergraduate%20Researcher-00A6D6.svg" alt="Undergraduate Researcher"/>
 </p>
 
 <h1 align="center">Hafiz Muhammad Anas — AI & GeoAI Research</h1>
@@ -83,7 +83,6 @@ My ongoing Final Year Project, **GlacioSentinel**, explores AI-driven glacial la
 My Final Year Project investigates the application of artificial intelligence and satellite remote sensing for monitoring glacial lakes in northern Pakistan.
 
 **Research components:**
-
 - Sentinel-2 satellite imagery acquisition and preprocessing
 - NDWI-based water body extraction
 - U-Net-based glacial lake segmentation
@@ -96,7 +95,7 @@ My Final Year Project investigates the application of artificial intelligence an
 
 <p align="center">
   <a href="https://github.com/Shayan614/GlacioSentinel">
-    <img src="https://img.shields.io/badge/Explore-GlacioSentinel-00A6D6?style=for-the-badge&logo=github&logoColor=white" alt="GlacioSentinel repository"/>
+    <img src="https://img.shields.io/badge/Explore-GlacioSentinel-00A6D6.svg?style=for-the-badge&logo=github&logoColor=white" alt="Explore GlacioSentinel"/>
   </a>
 </p>
 
@@ -138,9 +137,9 @@ My Final Year Project investigates the application of artificial intelligence an
 
 ## 🎓 Academic Background
 
-| | Qualification | Institution |
-|---|---|---|
-| 🎓 | **BS Software Engineering — Undergraduate** | FAST National University, Pakistan |
+| Qualification | Institution |
+|---|---|
+| **BS Software Engineering — Undergraduate** | FAST National University, Pakistan |
 
 **Academic interests:** Artificial Intelligence · Machine Learning · Data Science · Geospatial Computing · Remote Sensing
 
@@ -149,16 +148,20 @@ My Final Year Project investigates the application of artificial intelligence an
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anassahoo&show_icons=true&theme=transparent&title_color=00A6D6&icon_color=00A6D6&text_color=9CA3AF&border_color=0E4C6B" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anassahoo&layout=compact&theme=transparent&title_color=00A6D6&text_color=9CA3AF&border_color=0E4C6B" height="165" alt="Most used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anassahoo&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&title_color=00A6D6&icon_color=00A6D6&text_color=9CA3AF&border_color=0E4C6B" height="190" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anassahoo&layout=compact&langs_count=8&theme=transparent&title_color=00A6D6&text_color=9CA3AF&border_color=0E4C6B" height="190" alt="Most used programming languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anassahoo&theme=transparent&ring=00A6D6&fire=C9A227&currStreakLabel=00A6D6&sideLabels=9CA3AF&dates=9CA3AF&border=0E4C6B" width="80%" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=anassahoo&theme=transparent&hide_border=false&hide_current_streak=true&border=0E4C6B&ring=00A6D6&fire=C9A227&currStreakLabel=00A6D6&sideLabels=9CA3AF&dates=9CA3AF" width="95%" alt="GitHub contribution streak — current streak hidden"/>
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00A6D6/anassahoo" width="95%" alt="GitHub contribution activity"/>
+  <img src="https://ghchart.rshah.org/00A6D6/anassahoo" width="95%" alt="GitHub contribution calendar"/>
+</p>
+
+<p align="center">
+  <sub>GitHub statistics and contribution activity for anassahoo.</sub>
 </p>
 
 ---
@@ -179,7 +182,7 @@ I welcome opportunities for **undergraduate research internships, academic colla
 
 <p align="center">
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me"/>
   </a>
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
