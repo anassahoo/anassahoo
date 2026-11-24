@@ -14,9 +14,6 @@
   <a href="https://github.com/anassahoo">
     <img src="https://img.shields.io/badge/GitHub-anassahoo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -92,12 +89,6 @@ My Final Year Project investigates the application of artificial intelligence an
 - Exploration of applications in GLOF monitoring
 
 **Technologies:** Python · PyTorch · U-Net · Sentinel-2 · NDWI · FastAPI · PostgreSQL · PostGIS
-
-<p align="center">
-  <a href="https://github.com/Shayan614/GlacioSentinel">
-    <img src="https://img.shields.io/badge/Explore-GlacioSentinel-00A6D6.svg?style=for-the-badge&logo=github&logoColor=white" alt="Explore GlacioSentinel"/>
-  </a>
-</p>
 
 <sub>Research and development ongoing. Model evaluation and validation are in progress.</sub>
 
@@ -183,9 +174,6 @@ I welcome opportunities for **undergraduate research internships, academic colla
 <p align="center">
   <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me"/>
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/anassahoo">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
