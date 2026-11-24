@@ -1,4 +1,6 @@
-<!-- Research Profile README — Hafiz Muhammad Anas -->
+<!-- ===================================================== -->
+<!-- HAFIZ MUHAMMAD ANAS — RESEARCH PROFILE README        -->
+<!-- ===================================================== -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:0E4C6B,100:00A6D6&height=200&section=header&text=Hafiz%20Muhammad%20Anas&fontSize=42&fontColor=FFFFFF&fontAlignY=34&desc=Undergraduate%20Researcher%20%C2%B7%20AI%20for%20Earth%20Observation&descSize=16&descAlignY=55" width="100%" alt="Hafiz Muhammad Anas — Undergraduate Researcher"/>
 
@@ -9,15 +11,21 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anassahoo"><img src="https://img.shields.io/badge/GitHub-anassahoo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/anassahoo">
+    <img src="https://img.shields.io/badge/GitHub-anassahoo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍%20Pakistan-0B1F3A?style=flat-square" alt="Pakistan"/>
-  <img src="https://img.shields.io/badge/🎓%20FAST%20NUCES-0E4C6B?style=flat-square" alt="FAST NUCES"/>
-  <img src="https://img.shields.io/badge/🔬%20Undergraduate%20Researcher-00A6D6?style=flat-square" alt="Undergraduate Researcher"/>
+  <img src="https://img.shields.io/badge/Location-Pakistan-0B1F3A?style=flat-square" alt="Pakistan"/>
+  <img src="https://img.shields.io/badge/University-FAST%20NUCES-0E4C6B?style=flat-square" alt="FAST NUCES"/>
+  <img src="https://img.shields.io/badge/Research-Undergraduate%20Researcher-00A6D6?style=flat-square" alt="Undergraduate Researcher"/>
 </p>
 
 <h1 align="center">Hafiz Muhammad Anas — AI & GeoAI Research</h1>
@@ -75,6 +83,7 @@ My ongoing Final Year Project, **GlacioSentinel**, explores AI-driven glacial la
 My Final Year Project investigates the application of artificial intelligence and satellite remote sensing for monitoring glacial lakes in northern Pakistan.
 
 **Research components:**
+
 - Sentinel-2 satellite imagery acquisition and preprocessing
 - NDWI-based water body extraction
 - U-Net-based glacial lake segmentation
@@ -140,7 +149,7 @@ My Final Year Project investigates the application of artificial intelligence an
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anassahoo&show_icons=true&theme=transparent&title_color=00A6D6&icon_color=00A6D6&text_color=9CA3AF&border_color=0E4C6B&hide_border=false" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anassahoo&show_icons=true&theme=transparent&title_color=00A6D6&icon_color=00A6D6&text_color=9CA3AF&border_color=0E4C6B" height="165" alt="GitHub statistics"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anassahoo&layout=compact&theme=transparent&title_color=00A6D6&text_color=9CA3AF&border_color=0E4C6B" height="165" alt="Most used languages"/>
 </p>
 
@@ -169,9 +178,15 @@ I am interested in connecting with researchers, professors, and laboratories wor
 I welcome opportunities for **undergraduate research internships, academic collaboration, and contributing to research projects** in these areas.
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/📧%20Contact%20Me-D14836?style=for-the-badge&labelColor=0B1F3A" alt="Email"/></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&labelColor=0B1F3A" alt="LinkedIn"/></a>
-  <a href="https://github.com/anassahoo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&labelColor=0B1F3A" alt="GitHub"/></a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/anassahoo">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
