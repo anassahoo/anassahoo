@@ -20,8 +20,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Pakistan-0B1F3A.svg" alt="Location: Pakistan"/>
-  <img src="https://img.shields.io/badge/University-FAST%20NUCES-0E4C6B.svg" alt="University: FAST NUCES"/>
   <img src="https://img.shields.io/badge/Research-Undergraduate%20Researcher-00A6D6.svg" alt="Undergraduate Researcher"/>
 </p>
 
